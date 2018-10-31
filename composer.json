@@ -1,8 +1,8 @@
 {
-    "name": "dompdf/dompdf",
+    "name": "flamingosRules/dompdf",
     "type": "library",
     "description": "DOMPDF is a CSS 2.1 compliant HTML to PDF converter",
-    "homepage": "https://github.com/dompdf/dompdf",
+    "homepage": "https://github.com/flamingosRules/dompdf",
     "license": "LGPL-2.1",
     "authors": [
         {
